@@ -1,0 +1,24 @@
+{
+  "name": "@iptrue/shapes",
+  "version": "1.0.0",
+  "main": "shapes.js",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iptrue/shapes.git"
+  },
+  "author": "iptrue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iptrue/shapes/issues"
+  },
+  "homepage": "https://github.com/iptrue/shapes#readme"
+}
